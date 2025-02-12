@@ -1,5 +1,5 @@
 [![MasterHead](https://i.giphy.com/r2EmIn9sDFcSo7WiCt.webp)](https://rishavchanda.io)
-<h1 align="center">I AM THE BOAT A.K.A JULS</h1>
+<h1 align="center">theboat999 (Juls)</h1>
 <h3 align="center">⚡Former Lightweight Champion of the World (UFC)</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2huYXFsZjYwM2U2YmMwc3lmNHJkaHhuNHprdDM1ZzJxaTMzZWo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ewHxe2RGr6OmQTLNL/giphy.gif">
 
