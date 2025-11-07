@@ -95,11 +95,16 @@ const theboat999 = {
 
 <br/>
 
-## 💡 Random Dev Quote
+## 💡 "theboat999" by Juls
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <h2 style="color:#00D9FF;">“theboat999” by Juls</h2>
 </div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
 
 <br/>
 
