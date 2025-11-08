@@ -29,8 +29,7 @@ const theboat999 = {
         "C++", 
         "Java", 
         "Python", 
-        "JavaScript",
-        "TypeScript", 
+        "JavaScript", 
         "PHP"
     ],
     
@@ -38,10 +37,7 @@ const theboat999 = {
         frontend: [
             "HTML5", 
             "CSS3", 
-            "JavaScript",
-            "React",
-            "React Native",
-            "Tailwind CSS"
+            "JavaScript"
         ],
         backend: [
             "PHP", 
@@ -57,15 +53,13 @@ const theboat999 = {
         tools: [
             "Photoshop", 
             "Git", 
-            "VS Code",
-            "Expo"
+            "VS Code"
         ]
     },
     
     currentFocus: "GOONING 🚀",
     learning: "Ewan q",
-    funFact: "THIS 🥷 KNOWS PYTHON",
-    favouriteSong: "Hysteria by Muse 🎵"
+    funFact: "THIS 🥷 KNOWS PYTHON"
 };
 ```
 
@@ -91,18 +85,12 @@ const theboat999 = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=dark" alt="Programming Languages" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Technologies" />
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
-  <img src="https://www.svgrepo.com/show/353724/expo-icon.svg" alt="Expo" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Technologies" />
 </p>
 
 ### 🗄️ Databases
