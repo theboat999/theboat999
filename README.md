@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/github/stars/theboat999?label=Total%20Stars&style=for-the-badge&color=00D9FF" alt="Stars" />
 </p>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The+fight+is+won+or+lost+far+away+from+witnesses+-+behind+the+lines,+in+the+gym,+and+out+there+on+the+road,+long+before+I+dance+under+those+lights.&author=Muhammad+Ali" alt="UFC Quote"/>
+</div>
+
 ---
 
 <table>
@@ -29,7 +33,8 @@ const theboat999 = {
         "C++", 
         "Java", 
         "Python", 
-        "JavaScript", 
+        "JavaScript",
+        "TypeScript", 
         "PHP"
     ],
     
@@ -37,7 +42,10 @@ const theboat999 = {
         frontend: [
             "HTML5", 
             "CSS3", 
-            "JavaScript"
+            "JavaScript",
+            "React",
+            "React Native",
+            "Tailwind CSS"
         ],
         backend: [
             "PHP", 
@@ -53,7 +61,8 @@ const theboat999 = {
         tools: [
             "Photoshop", 
             "Git", 
-            "VS Code"
+            "VS Code",
+            "Expo"
         ]
     },
     
@@ -68,10 +77,24 @@ const theboat999 = {
 - 🌱 Mastering **System Design & Architecture**
 - 💡 Exploring **Cloud Technologies**
 
+### 🎵 Currently Vibing To
+<div align="left">
+  <a href="https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK">
+    <img src="https://img.shields.io/badge/Hysteria-Muse-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Hysteria by Muse"/>
+  </a>
+</div>
+
 </td>
 <td width="45%" valign="top">
 
 <img alt="Coding Animation" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2huYXFsZjYwM2U2YmMwc3lmNHJkaHhuNHprdDM1ZzJxaTMzZWo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
+
+### 💪 UFC Fighter Quote
+> **"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."**  
+> *— Bruce Lee*
+
+> **"Pressure is a privilege."**  
+> *— Conor McGregor*
 
 </td>
 </tr>
@@ -85,19 +108,30 @@ const theboat999 = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php&theme=dark" alt="Programming Languages" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Technologies" />
 </p>
 
-### 🗄️ Databases
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
+  <img src="https://www.svgrepo.com/show/353724/expo-icon.svg" alt="Expo" width="48" height="48" style="filter: drop-shadow(0 0 10px rgba(0, 217, 255, 0.3));"/>
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,python&theme=dark" alt="Backend Technologies" />
+</p>
+
+### 🗄️ Databases & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="MySQL Firebase" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48" height="48" style="filter: drop-shadow(0 0 10px rgba(0, 217, 255, 0.3));"/>
+  <img src="https://www.svgrepo.com/show/354152/oracle.svg" alt="Oracle" width="48" height="48" style="filter: drop-shadow(0 0 10px rgba(0, 217, 255, 0.3));"/>
 </p>
 
 ### 🔧 Tools & Design
@@ -116,9 +150,19 @@ const theboat999 = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=theboat999&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theboat999&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=theboat999&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="Top Contributions" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theboat999&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
@@ -140,6 +184,29 @@ const theboat999 = {
 ---
 
 <div align="center">
+
+## 💡 Random UFC Fighter Wisdom
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🥊-Train_Like_A_Champion-FF6B00?style=for-the-badge" alt="Train"/>
+        <br/><i>"Champions are made in the gym."</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/💪-Never_Give_Up-00D9FF?style=for-the-badge" alt="Never Give Up"/>
+        <br/><i>"It's not about the size of the dog in the fight."</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏆-Believe_In_Yourself-FFD700?style=for-the-badge" alt="Believe"/>
+        <br/><i>"Winners train, losers complain."</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
   
 ### 💬 Let's Connect & Collaborate!
 
@@ -148,7 +215,9 @@ const theboat999 = {
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Ask%20me-anything-00D9FF?style=for-the-badge&logo=github" alt="Ask Me Anything"/>
+  <a href="https://github.com/theboat999">
+    <img src="https://img.shields.io/badge/Ask%20me-anything-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ask Me Anything"/>
+  </a>
 </p>
 
 ### 📫 How to Reach Me
@@ -159,7 +228,12 @@ const theboat999 = {
 ---
 
 <p>
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-FF6B00?style=for-the-badge" alt="Made with love"/>
+</p>
+
+<p>
   <b>⭐️ From <a href="https://github.com/theboat999">theboat999</a> with 💙</b><br/>
+  <i>Keep coding, keep fighting! 🥊💻</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
