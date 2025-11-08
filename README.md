@@ -18,8 +18,6 @@
 <tr>
 <td width="50%" valign="top">
 
-## About
-
 ```javascript
 const theboat999 = {
     location: "🇵🇭 Antipolo City, Philippines",
