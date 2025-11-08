@@ -20,15 +20,48 @@
 
 ## About
 
-**Location:** Antipolo City, Philippines  
-**Role:** Full Stack Developer
-
-**Languages:** C • C++ • Java • Python • JavaScript • TypeScript • PHP
-
-**Currently:** Working on full stack projects and exploring system architecture
-
-**Listening to:** [Hysteria](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) — Muse
-
+```javascript
+const theboat999 = {
+    location: "🇵🇭 Antipolo City, Philippines",
+    currentRole: "Full Stack Developer (?)",
+    languages: [
+        "C", 
+        "C++", 
+        "Java", 
+        "Python", 
+        "JavaScript", 
+        "PHP"
+    ],
+    
+    techStack: {
+        frontend: [
+            "HTML5", 
+            "CSS3", 
+            "JavaScript"
+        ],
+        backend: [
+            "PHP", 
+            "Java", 
+            "Python"
+        ],
+        databases: [
+            "MySQL", 
+            "MSSQL", 
+            "Oracle", 
+            "Firebase"
+        ],
+        tools: [
+            "Photoshop", 
+            "Git", 
+            "VS Code"
+        ]
+    },
+    
+    currentFocus: "GOONING 🚀",
+    learning: "Ewan q",
+    funFact: "THIS 🥷 KNOWS PYTHON"
+};
+```
 </td>
 <td width="50%" valign="top">
 
