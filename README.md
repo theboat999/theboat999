@@ -29,7 +29,8 @@ const theboat999 = {
         "C++", 
         "Java", 
         "Python", 
-        "JavaScript", 
+        "JavaScript",
+        "TypeScript", 
         "PHP"
     ],
     
@@ -37,7 +38,10 @@ const theboat999 = {
         frontend: [
             "HTML5", 
             "CSS3", 
-            "JavaScript"
+            "JavaScript",
+            "React",
+            "React Native",
+            "Tailwind CSS"
         ],
         backend: [
             "PHP", 
@@ -53,13 +57,15 @@ const theboat999 = {
         tools: [
             "Photoshop", 
             "Git", 
-            "VS Code"
+            "VS Code",
+            "Expo"
         ]
     },
     
     currentFocus: "GOONING 🚀",
     learning: "Ewan q",
-    funFact: "THIS 🥷 KNOWS PYTHON"
+    funFact: "THIS 🥷 KNOWS PYTHON",
+    favouriteSong: "Hysteria by Muse 🎵"
 };
 ```
 
@@ -85,21 +91,21 @@ const theboat999 = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php&theme=dark" alt="Programming Languages" />
 </p>
 
-### 🎨 Frontend & Frameworks
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Technologies" />
 </p>
 
 ### 📱 Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
-  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="Expo" width="48" height="48"/>
+  <img src="https://www.svgrepo.com/show/353724/expo-icon.svg" alt="Expo" width="48" height="48"/>
 </p>
 
-### 🗄️ Databases & Backend Services
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="MySQL Firebase" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48" height="48"/>
