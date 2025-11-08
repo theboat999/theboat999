@@ -23,8 +23,8 @@ const theboat999 = {
         databases: ["MySQL", "MSSQL", "Oracle"],
         tools: ["Photoshop", "Git"]
     },
-    currentFocus: "Building awesome projects 🎯",
-    funFact: "I turn coffee into code ☕️"
+    currentFocus: "GOONING 😛😛😛",
+    funFact: "THIS 🥷 KNOWS PYTHON"
 };
 ```
 
