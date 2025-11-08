@@ -68,10 +68,10 @@ const theboat999 = {
 > *"Adversity is a Privelege"*  
 > — Alexander "The Great" Volkanovski
 
-<img alt="Coding" width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdwZ3gybGRuaDgxYXd6ZTF3MGRnajgzMW5mMG1zc3YwdWNnMWw1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dy1mvwugE6FTnsAzG5/giphy.gif"/>
+<img alt="Coding" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2huYXFsZjYwM2U2YmMwc3lmNHJkaHhuNHprdDM1ZzJxaTMzZWo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
 
-> *"Adversity is a Privelege"*  
-> — Alexander "The Great" Volkanovski
+> *"Life told me I was worthless, now look at me brother I am a world champion"*  
+> — Charles "Do Bronx" Oliveira
 
 </td>
 </tr>
