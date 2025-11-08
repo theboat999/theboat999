@@ -66,7 +66,7 @@ const theboat999 = {
 </td>
 <td width="50%" valign="top">
   
-## My Favorite Fighters
+## Random Quotes
 
 <img alt="Coding" width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdwZ3gybGRuaDgxYXd6ZTF3MGRnajgzMW5mMG1zc3YwdWNnMWw1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dy1mvwugE6FTnsAzG5/giphy.gif"/>
 
