@@ -21,19 +21,19 @@
 ```javascript
 const theboat999 = {
     location: "🇵🇭 Antipolo City, Philippines",
-    currentRole: "Full Stack Developer (?)",
+    currentRole: "Full Stack Developer",
     languages: ["C", "C++", "Java", "Python", "JavaScript", "PHP"],
     
     techStack: {
         frontend: ["HTML5", "CSS3", "JavaScript"],
         backend: ["PHP", "Java", "Python"],
-        databases: ["MySQL", "MSSQL", "Oracle", "Firebase"],
+        databases: ["MySQL", "MSSQL", "Oracle"],
         tools: ["Photoshop", "Git", "VS Code"]
     },
     
-    currentFocus: "GOONING 🚀",
-    learning: "Ewan q",
-    funFact: "THIS 🥷 KNOWS PYTHON"
+    currentFocus: "Building innovative solutions 🚀",
+    learning: "Advanced system architecture",
+    funFact: "Code. Debug. Deploy. Repeat. 🔄"
 };
 ```
 
@@ -41,6 +41,7 @@ const theboat999 = {
 - 🔭 Working on **Full Stack Development Projects**
 - 🌱 Mastering **System Design & Architecture**
 - 💡 Exploring **Cloud Technologies**
+- 🤝 Open to **Collaboration & Opportunities**
 
 <br clear="right"/>
 
@@ -90,6 +91,14 @@ const theboat999 = {
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theboat999&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -102,6 +111,23 @@ const theboat999 = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/theboat999/theboat999/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <h3 style="color:#00D9FF;">🎧 "theboat999" by Juls 🎵</h3>
+  <i>Coding soundtrack on repeat</i>
 </div>
 
 ---
@@ -127,6 +153,7 @@ const theboat999 = {
 
 <p>
   <b>⭐️ From <a href="https://github.com/theboat999">theboat999</a> with 💙</b><br/>
+  <i>If you like my work, consider giving some repos a star! ⭐</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
