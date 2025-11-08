@@ -132,11 +132,6 @@ const theboat999 = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theboat999&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="98%" alt="Activity Graph"/>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/theboat999/theboat999/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
