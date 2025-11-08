@@ -18,6 +18,8 @@
 <tr>
 <td width="50%" valign="top">
 
+## About me
+
 ```javascript
 const theboat999 = {
     location: "🇵🇭 Antipolo City, Philippines",
@@ -60,6 +62,8 @@ const theboat999 = {
     funFact: "THIS 🥷 KNOWS PYTHON"
 };
 ```
+
+## About me
 </td>
 <td width="50%" valign="top">
 
