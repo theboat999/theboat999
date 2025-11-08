@@ -14,26 +14,52 @@
 
 ---
 
-<img align="right" alt="Coding Animation" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2huYXFsZjYwM2U2YmMwc3lmNHJkaHhuNHprdDM1ZzJxaTMzZWo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 
 ```javascript
 const theboat999 = {
     location: "🇵🇭 Antipolo City, Philippines",
-    currentRole: "Full Stack Developer",
-    languages: ["C", "C++", "Java", "Python", "JavaScript", "PHP"],
+    currentRole: "Full Stack Developer (?)",
+    languages: [
+        "C", 
+        "C++", 
+        "Java", 
+        "Python", 
+        "JavaScript", 
+        "PHP"
+    ],
     
     techStack: {
-        frontend: ["HTML5", "CSS3", "JavaScript"],
-        backend: ["PHP", "Java", "Python"],
-        databases: ["MySQL", "MSSQL", "Oracle"],
-        tools: ["Photoshop", "Git", "VS Code"]
+        frontend: [
+            "HTML5", 
+            "CSS3", 
+            "JavaScript"
+        ],
+        backend: [
+            "PHP", 
+            "Java", 
+            "Python"
+        ],
+        databases: [
+            "MySQL", 
+            "MSSQL", 
+            "Oracle", 
+            "Firebase"
+        ],
+        tools: [
+            "Photoshop", 
+            "Git", 
+            "VS Code"
+        ]
     },
     
-    currentFocus: "Building innovative solutions 🚀",
-    learning: "Advanced system architecture",
-    funFact: "Code. Debug. Deploy. Repeat. 🔄"
+    currentFocus: "GOONING 🚀",
+    learning: "Ewan q",
+    funFact: "THIS 🥷 KNOWS PYTHON"
 };
 ```
 
@@ -41,9 +67,15 @@ const theboat999 = {
 - 🔭 Working on **Full Stack Development Projects**
 - 🌱 Mastering **System Design & Architecture**
 - 💡 Exploring **Cloud Technologies**
-- 🤝 Open to **Collaboration & Opportunities**
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top">
+
+<img alt="Coding Animation" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2huYXFsZjYwM2U2YmMwc3lmNHJkaHhuNHprdDM1ZzJxaTMzZWo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,14 +88,20 @@ const theboat999 = {
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=dark" alt="Programming Languages" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript&theme=dark" alt="Frontend Technologies" />
 </p>
 
-### 🗄️ Databases
+### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="Expo" width="48" height="48"/>
+</p>
+
+### 🗄️ Databases & Backend Services
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="MySQL Firebase" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle" />
 </p>
@@ -91,14 +129,6 @@ const theboat999 = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theboat999&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -111,23 +141,6 @@ const theboat999 = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/theboat999/theboat999/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <h3 style="color:#00D9FF;">🎧 "theboat999" by Juls 🎵</h3>
-  <i>Coding soundtrack on repeat</i>
 </div>
 
 ---
@@ -153,7 +166,6 @@ const theboat999 = {
 
 <p>
   <b>⭐️ From <a href="https://github.com/theboat999">theboat999</a> with 💙</b><br/>
-  <i>If you like my work, consider giving some repos a star! ⭐</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
