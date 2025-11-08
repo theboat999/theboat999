@@ -63,10 +63,10 @@ const theboat999 = {
 </td>
 <td width="50%" valign="top">
 
-<img alt="Coding" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2huYXFsZjYwM2U2YmMwc3lmNHJkaHhuNHprdDM1ZzJxaTMzZWo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
+<img alt="Coding" width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdwZ3gybGRuaDgxYXd6ZTF3MGRnajgzMW5mMG1zc3YwdWNnMWw1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dy1mvwugE6FTnsAzG5/giphy.gif"/>
 
-> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."*  
-> — Bruce Lee
+> *"Adversity is a Privelege"*  
+> — Alexander "The Great" Volkanovski
 
 </td>
 </tr>
