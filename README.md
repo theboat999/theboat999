@@ -1,17 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=theboat999&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=theJULS999&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=the+boat+999;This+🥷+Knows+Python" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theboat999&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/theboat999?label=Followers&style=flat-square&color=00D9FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/theboat999?label=Stars&style=flat-square&color=00D9FF" alt="Stars" />
-</p>
-
 ---
 
 <table>
