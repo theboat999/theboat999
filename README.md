@@ -1,7 +1,7 @@
 # README.md
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12&height=160&section=header&text=Julius+Tomaquin&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Software+Engineer+%E2%80%94+Philippines&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12&height=160&section=header&text=JU+LS&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Software+Engineer+%E2%80%94+Philippines&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ```typescript
 const julius = {
-  name:     "Juls Theboat",
+  name:     "JU LS",
   alias:    "theboat999",
   location: "Philippines",
   role:     "Software Engineering Student & Developer",
