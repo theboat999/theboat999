@@ -24,7 +24,7 @@
 
 ```typescript
 const julius = {
-  name:     "Julius Tomaquin",
+  name:     "Juls Theboat",
   alias:    "theboat999",
   location: "Philippines",
   role:     "Software Engineering Student & Developer",
